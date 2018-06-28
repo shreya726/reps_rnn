@@ -1,4 +1,4 @@
-# RNN for Reptition Counting
+# RNN for Repetition Counting
 
 ## Requirements
 Python  
